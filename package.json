@@ -34,7 +34,7 @@
     "discord.js": "^14.16.3",
     "dotenv-safe": "^9.1.0",
     "fast-fuzzy": "^1.12.0",
-    "fastify": "^5.2.0",
+    "fastify": "^5.2.1",
     "got": "^14.4.5",
     "iso8601-duration": "^2.1.2",
     "p-limit": "^6.2.0",
